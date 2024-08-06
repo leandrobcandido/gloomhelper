@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "416745403557",
+    "project_id": "gloomhelper",
+    "storage_bucket": "gloomhelper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416745403557:android:b8c9cc9a5d7c94d5be894c",
+        "android_client_info": {
+          "package_name": "com.example.gloomhelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416745403557-hjud1p62anmgp0pclrvfkbtarec4fllo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABNTILN_ThHzhU0Wyd8jDCUoixktQHr7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416745403557-hjud1p62anmgp0pclrvfkbtarec4fllo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
